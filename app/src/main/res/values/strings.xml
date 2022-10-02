@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myNoteMvvm</string>
+    <string name="enter_the_note">Enter The Note</string>
+    <string name="button">Button</string>
+    <string name="enter_the_title">Enter The Title</string>
+    <string name="SAVE" />
+</resources>
